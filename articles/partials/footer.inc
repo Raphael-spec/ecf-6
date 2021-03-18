@@ -1,0 +1,38 @@
+    <footer  class=" fixed-bottom text-center mt-5" style="margin-top:400px">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light ">
+
+              <div class="container-fluid text-center ">
+
+                
+                <a class="navbar-brand text-black" href="#">BADNeWS <img src="../assets/images/attaque.png" alt="" width="30"></a>
+                
+                <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" 
+                  aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button> -->
+                
+                    <div class="collapse navbar-collapse text-center" id="navbarNavDropdown">
+                        <ul class="navbar-nav text-center ml-5">
+
+                          <li class="nav-item ">
+                            <a class="nav-link active text-black" aria-current="page" href="../index.php">ACCUEIL</a>
+                          </li>
+
+                          <li class="nav-item">
+                            <a class="nav-link text-black" href="../apropos.php">A PROPOS</a>
+                          </li>
+
+                          <li class="nav-item">
+                            <a class="nav-link text-black" href="../contact.php">CONTACT</a>
+                          </li>
+
+                        </ul>
+                  </div>
+
+
+                    <div class="text-right text-danger col-4"> Copyright &copy;<a class="text-danger" href="admin/index.php" style="text-decoration:none">2021</a></div>
+              </div>
+        </nav>
+    </footer>
+  </body>
+</html>
